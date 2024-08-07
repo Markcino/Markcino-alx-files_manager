@@ -25,7 +25,7 @@ module.exports = {
     'no-restricted-syntax': [
       'error',
       'LabeledStatement',
-      'withStatement',
+      'WithStatement',
     ],
   },
   overrides:[
